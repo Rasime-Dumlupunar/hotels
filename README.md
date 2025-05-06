@@ -14,6 +14,6 @@
 - **Tailwind CSS:** Uygulama boyunca duyarlı, modern ve temiz bir stil oluşturmak için kullanılır.
 - **@tanstack/react-query-devtools:** Geliştirme sürecinde veri sorgularını izleyip optimize etmek için kullanılır.
 
-
+ 
 
 ![](https://github.com/Rasime-Dumlupunar/hotels/blob/main/%20hotels.gif)
